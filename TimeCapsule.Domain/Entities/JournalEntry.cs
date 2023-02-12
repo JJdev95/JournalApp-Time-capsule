@@ -7,7 +7,8 @@ namespace TimeCapsule.Domain.Entities
         public string Text { get; set; }
         public int UserId { get; set; }
         public int JournalTypeId { get; set; }
-       
+        public JournalType JournalType { get; set; }
+
         public JournalEntry(string title, DateTime entryDate, string text, int userId, int journalTypeId)
         {
             Title = title;

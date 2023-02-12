@@ -1,0 +1,14 @@
+[
+    {
+      "Title": "Personal",
+      "Id": 1
+    },
+    {
+      "Title": "Work",
+      "Id": 2
+    },
+    {
+      "Title": "Travel",
+      "Id": 3
+    }
+]

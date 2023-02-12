@@ -30,6 +30,13 @@
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
+        },
+        {
+            "name": "Debug API",
+            "request": "launch",
+            "type": "coreclr",
+            "program": "${workspaceFolder}/TimeCapsule.API/bin/Debug/net7.0/TimeCapsule.API.dll",
+            "args": [],
         }
     ]
 }

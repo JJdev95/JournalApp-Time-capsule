@@ -1,0 +1,72 @@
+[
+  {
+    "Title": "First Journal Entry",
+    "EntryDate": "2022-01-01T00:00:00",
+    "Text": "This is my first journal entry",
+    "UserId": 1,
+    "JournalTypeId": 1
+  },
+  {
+    "Title": "Second Journal Entry",
+    "EntryDate": "2022-02-01T00:00:00",
+    "Text": "This is my second journal entry",
+    "UserId": 1,
+    "JournalTypeId": 2
+  },
+  {
+    "Title": "Third Journal Entry",
+    "EntryDate": "2022-03-01T00:00:00",
+    "Text": "This is my third journal entry",
+    "UserId": 1,
+    "JournalTypeId": 3
+  },
+  {
+    "Title": "Fourth Journal Entry",
+    "EntryDate": "2022-04-01T00:00:00",
+    "Text": "This is my fourth journal entry",
+    "UserId": 1,
+    "JournalTypeId": 1
+  },
+  {
+    "Title": "Fifth Journal Entry",
+    "EntryDate": "2022-05-01T00:00:00",
+    "Text": "This is my fifth journal entry",
+    "UserId": 1,
+    "JournalTypeId": 2
+  },
+  {
+    "Title": "Sixth Journal Entry",
+    "EntryDate": "2022-06-01T00:00:00",
+    "Text": "This is my sixth journal entry",
+    "UserId": 1,
+    "JournalTypeId": 3
+  },
+  {
+    "Title": "Seventh Journal Entry",
+    "EntryDate": "2022-07-01T00:00:00",
+    "Text": "This is my seventh journal entry",
+    "UserId": 1,
+    "JournalTypeId": 1
+  },
+  {
+    "Title": "Eighth Journal Entry",
+    "EntryDate": "2022-08-01T00:00:00",
+    "Text": "This is my eighth journal entry",
+    "UserId": 1,
+    "JournalTypeId": 2
+  },
+  {
+    "Title": "Ninth Journal Entry",
+    "EntryDate": "2022-09-01T00:00:00",
+    "Text": "This is my ninth journal entry",
+    "UserId": 1,
+    "JournalTypeId": 3
+  },
+  {
+    "Title": "Tenth Journal Entry",
+    "EntryDate": "2022-10-01T00:00:00",
+    "Text": "This is my tenth journal entry",
+    "UserId": 1,
+    "JournalTypeId": 1
+  }
+]
